@@ -26,5 +26,6 @@ public class Prime_Number {
                 System.out.println(num + " is a prime number");
             }
         }
+        sc.close();
     }
 }

@@ -16,5 +16,6 @@ public class Positive_Negative_Number {
         } else {
             System.out.printf("The given number %d is Zero",num);
         }
+        sc.close();
     }
 }

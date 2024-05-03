@@ -27,5 +27,6 @@ public class Lab015 {
                 System.out.println(marks[i]);
             }
         }
+        sc.close();
     }
 }

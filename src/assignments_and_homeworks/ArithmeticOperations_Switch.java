@@ -38,6 +38,7 @@ public class ArithmeticOperations_Switch {
                 System.out.println(input1%input2);
                 break;
         }
+        sc.close();
     }
 
 }
